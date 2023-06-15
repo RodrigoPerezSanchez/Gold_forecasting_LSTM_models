@@ -1,9 +1,12 @@
 # Gold_forecasting_LSTM_models
 Diseño de un modelo de predicción del valor del oro implementando redes neuronales recurrentes LSTM utilizando índices externos correlacionados
 
-## Modelos LSTM utilizados: Stacked LSTM, BiLSTM y Vanilla LSTM
-## Modelo predictivo de clasificación: DecisionTreeClassifier
-## Plataforma de programación: Spyder - Anaconda
+### Modelos LSTM utilizados: 
+Stacked LSTM, BiLSTM y Vanilla LSTM
+### Modelo predictivo de clasificación: 
+DecisionTreeClassifier
+### Plataforma de programación: 
+Spyder - Anaconda
 
 ## RESUMEN
 El oro siempre ha sido una de las materias primas más importantes y valoradas dentro del
