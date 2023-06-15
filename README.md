@@ -1,6 +1,8 @@
 # Gold_forecasting_LSTM_models
 Diseño de un modelo de predicción del valor del oro implementando redes neuronales recurrentes LSTM utilizando índices externos correlacionados
 
+Este proyecto ha sido realizado con propósitos academicos para el trabajo de fin de de carrera (TFG), para la Universidad Poletécnica de Madrid en la Escuela Técnica Superior de Ingenieros de Telecomunicaciones (ETSIT)
+
 ### Modelos LSTM utilizados: 
 Stacked LSTM, BiLSTM y Vanilla LSTM
 ### Modelo predictivo de clasificación: 
