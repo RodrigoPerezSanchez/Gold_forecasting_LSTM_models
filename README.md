@@ -22,6 +22,7 @@ para obtener los máximos beneficios posibles y estables a largo plazo. Sin emba
 oro es volátil en la naturaleza y está sometido a numerosos factores externos que influyen
 en su valor, por lo que pronosticar su precio en el mercado se ha convertido en un gran
 desafío.
+
 El objetivo de este trabajo es diseñar un modelo de predicción del valor del oro. Debido
 a la existencia de numerosos métodos para llevar a cabo este proyecto, tales como la
 red neuronal recurrente BiGRU, este trabajo se centrará en implementar nuevos tipos
@@ -30,6 +31,7 @@ Stacked LSTM, BiLSTM y Vanilla LSTM para analizar sus ventajas e inconvenientes,
 demostrando qué tipo de red es más eficaz a la hora de elaborar dicho modelo de predicción
 comparando resultados. Se utilizará el lenguaje de Python y sus librerías para llevar a
 cabo este proyecto.
+
 Para mejorar la predicción del valor del oro, se analizará la influencia de factores externos
 que condicionan su valor a lo largo del tiempo, se tomarán en cuenta numerosos índices
 económicos: el SP 500, como influencia directa sobra la capitalización de las mayores
@@ -41,6 +43,7 @@ analizando aquellos que tengan una mayor repercusión, tanto positiva como negat
 la hora de recopilar la información. Se identificarán aquellos con la máxima correlación
 posible y se tomarán los valores en el transcurso del tiempo de los índices publicados en
 plataformas públicas.
+
 Tras el diseño e implementación de cada uno de los modelos propuestos se estudiará, dentro
 de los resultados obtenidos tras un proceso de optimización de hiper-parámetros, qué
 modelo obtiene mejores resultados gracias al uso de un algoritmo predictivo de clasificación
